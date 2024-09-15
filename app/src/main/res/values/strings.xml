@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="exit">Exit</string>
+    <string name="goto_screen_4">Go to Screen4</string>
+    <string name="goto_screen_3">Go to Screen3</string>
+    <string name="goto_screen_2">Go to Screen2</string>
+</resources>
